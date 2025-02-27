@@ -57,6 +57,7 @@
 
 - Data preparation and modeling part are not accurate.
 - The model only predicts heart diseased patient in the json response of the api calls on synthetic data 😂.
+- utilities.ipynb contains my ML related functions library, it is actually deorganised and full of bad stuffs that need to be cleaned later on.
 
 # Constraints
 
