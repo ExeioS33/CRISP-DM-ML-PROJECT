@@ -4,7 +4,7 @@
 
 ## Case 2 : Predicting heart disease class of patient
 
-### Personal preferences
+### Personal preferences and project structure choices
 
 - I've used **uv** for pyhon env management and dependencies.
 - Project structure with 3 main directories for the data science part (data, models and notebooks)
@@ -62,9 +62,9 @@
 # Constraints
 
 - The job had to be completed in less than 2 days which leads to precipitation in most of the steps of the CRISP-DM methodology.
-- Lack of business and data understanding
+- Lack of time for a deep understanding of business and data.
 
 # Additional notes on commands.md
 
-- This file contains different terminal commands to run the api service that exposes the model and the command to call it
+- This file contains different terminal commands to run the api service that exposes the model and the command to call it.
 - The Dockerfile is based on an existing image that contains all the ML tools so we won't need to redownload all the dependencies again.
