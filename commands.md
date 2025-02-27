@@ -5,13 +5,16 @@
 docker run -it --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work quay.io/jupyter/scipy-notebook:2025-01-20
 ```
 
-# build custom image with the REST service that exposes the model prediction
-
-docker build -t heart-disease-api .
-
-# run container for the prediction
+# Build custom image with the REST service that exposes the model prediction
 
 ```bash
+docker build -t heart-disease-api .
+```
+
+# Run container for the prediction
+
+```bash
+# access it through localhost port 8000 if 8888 is also binded
 docker run -it --rm -p 8000:8000 -v "${PWD}":/home/jovyan/work heart-disease-api
 ## DEBUG : enter the container
 # docker run -it --rm -p 8000:8000 -v "${PWD}":/home/jovyan/work heart-disease-api /bin/bash
