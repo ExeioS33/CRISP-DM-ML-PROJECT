@@ -53,7 +53,13 @@
 └── uv.lock
 ```
 
-# Improvements
+# Model prediction specificities and improvements
+
+- I force the user to specify a random number of patients in the api http call which is not the good way to make a prediction.
+- Behind I generate random synthetic patients data (it was for demonstration purposes) and the model makes prediction on this dataset.
+- In the future, I will change the argument to pass in the http Post method to allow passing a full patient info. So the model predicts only for this specific patient if he's diseased or not.
+
+# General project improvements
 
 - Data preparation and modeling part are not accurate.
 - The model only predicts heart diseased patient in the json response of the api calls on synthetic data 😂.
