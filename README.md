@@ -1,17 +1,16 @@
-# ML PROJECT using CRISP-DM methodology
+# ML Project Using CRISP-DM Methodology
 
-## Case 1 : Predicting credit_risk (not deployed)
+## Case 1: Predicting Credit Risk (Not Deployed)
 
-## Case 2 : Predicting heart disease class of patient
+## Case 2: Predicting Heart Disease Class of Patients
 
-### Personal preferences and project structure choices
+### Personal Preferences and Project Structure Choices
 
-- I've used **uv** for pyhon env management and dependencies.
-- Project structure with 3 main directories for the data science part (data, models and notebooks)
-  and 1 directory (src) for the REST API service.
+- I've used **uv** for Python environment management and dependencies.
+- The project structure includes 3 main directories for the data science part (data, models, and notebooks) and 1 directory (src) for the REST API service.
 
 ```bash
-    .
+.
 ├── Dockerfile
 ├── README.md
 ├── commands.md
@@ -53,24 +52,24 @@
 └── uv.lock
 ```
 
-# Model prediction specificities and improvements
+# Model Prediction Specificities and Improvements
 
-- I force the user to specify a random number of patients in the api http call which is not the good way to make a prediction.
-- Behind I generate random synthetic patients data (it was for demonstration purposes) and the model makes prediction on this dataset.
-- In the future, I will change the argument to pass in the http Post method to allow passing a full patient info. So the model predicts only for this specific patient if he's diseased or not.
+- Currently, the user is required to specify a random number of patients in the API HTTP call, which is not the best way to make a prediction.
+- For demonstration purposes, I generate random synthetic patient data, and the model makes predictions on this dataset.
+- In the future, I plan to change the argument passed in the HTTP POST method to allow passing full patient information so the model can predict if this specific patient has a disease or not.
 
-# General project improvements
+# General Project Improvements
 
-- Data preparation and modeling part are not accurate.
-- The model only predicts heart diseased patient in the json response of the api calls on synthetic data 😂.
-- utilities.ipynb contains my ML related functions library, it is actually deorganised and full of bad stuffs that need to be cleaned later on.
+- The data preparation and modeling parts are not accurate.
+- The model only predicts heart disease in the JSON response of the API calls on synthetic data 😂.
+- `utilities.ipynb` contains my ML-related functions library, which is currently disorganized and full of bad practices that need to be cleaned up later.
 
 # Constraints
 
-- The job had to be completed in less than 2 days which leads to precipitation in most of the steps of the CRISP-DM methodology.
-- Lack of time for a deep understanding of business and data.
+- The job had to be completed in less than 2 days, leading to rushed steps in the CRISP-DM methodology.
+- There was a lack of time for a deep understanding of the business and data.
 
-# Additional notes on commands.md
+# Additional Notes on `commands.md`
 
-- This file contains different terminal commands to run the api service that exposes the model and the command to call it.
-- The Dockerfile is based on an existing image that contains all the ML tools so we won't need to redownload all the dependencies again.
+- This file contains different terminal commands to run the API service that exposes the model and the command to call it.
+- The Dockerfile is based on an existing image that contains all the ML tools, so we don't need to redownload all the dependencies again.
