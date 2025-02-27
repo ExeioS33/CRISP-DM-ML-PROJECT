@@ -1,0 +1,7 @@
+Property	Value
+Number of Rows	1190
+Number of Columns	15
+Columns	['sex', 'weight', 'height', 'resting.bp.s', 'cholesterol', 'fasting.blood.sugar', 'physical_activity', 'age', 'ST.slope', 'chest.pain.type', 'exercise.angina', 'max.heart.rate', 'oldpeak', 'resting.ecg', 'target']
+Missing Values	{'sex': 0, 'weight': 0, 'height': 0, 'resting.bp.s': 0, 'cholesterol': 0, 'fasting.blood.sugar': 0, 'physical_activity': 0, 'age': 0, 'ST.slope': 0, 'chest.pain.type': 0, 'exercise.angina': 0, 'max.heart.rate': 0, 'oldpeak': 0, 'resting.ecg': 0, 'target': 0}
+Duplicated Rows	0
+Data Types	{'sex': dtype('O'), 'weight': dtype('float64'), 'height': dtype('float64'), 'resting.bp.s': dtype('int64'), 'cholesterol': dtype('int64'), 'fasting.blood.sugar': dtype('int64'), 'physical_activity': dtype('O'), 'age': dtype('int64'), 'ST.slope': dtype('float64'), 'chest.pain.type': dtype('float64'), 'exercise.angina': dtype('float64'), 'max.heart.rate': dtype('float64'), 'oldpeak': dtype('float64'), 'resting.ecg': dtype('float64'), 'target': dtype('O')}

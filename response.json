@@ -1,0 +1,405 @@
+{
+    "num_patients": 100,
+    "predictions": [
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.82
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7561
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5708
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.69
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7761
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.518
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7267
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6975
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5328
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5867
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.67
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6267
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7467
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7661
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.638
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7767
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.64
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7675
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5137
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7017
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5867
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6117
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7661
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.77
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5633
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.81
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.81
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5667
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6367
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7467
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7667
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.545
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5708
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6842
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.77
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.75
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.748
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7467
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6183
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6047
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5867
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.66
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7542
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.64
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.78
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7567
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.81
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.75
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.66
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6287
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6975
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.57
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.718
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6117
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.78
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.528
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.81
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.73
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.5408
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.67
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7767
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.79
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6642
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.83
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.78
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7761
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.77
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6892
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.67
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.68
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.78
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6667
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7561
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.77
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7667
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6587
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6553
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7742
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.6633
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.75
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.63
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.658
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.82
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.8
+        },
+        {
+            "prediction": "heart_disease",
+            "heart_disease_probability": 0.7675
+        }
+    ]
+}
